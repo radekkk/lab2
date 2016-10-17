@@ -1,0 +1,15 @@
+body
+{background-color:#ffff80;}
+div#obraz 
+{max-width:400px;}
+  
+	
+h1 
+	{font-family:"Arial black";
+font-size:50px;
+	}
+@media (max-width:800px) 
+{
+body
+{background-color:red;}
+}
