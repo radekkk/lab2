@@ -1,8 +1,9 @@
 body
 {background-color:#ffff80;}
 div#obraz 
-{max-width:400px;}
-  
+{width:90%;}
+ p
+ {width:90%;}
 	
 h1 
 	{font-family:"Arial black";
